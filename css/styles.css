@@ -1,0 +1,53 @@
+.grey-coding {
+  /* Image to be used */
+  background-image: url("../img/grey-macbook.jpeg");
+
+  /* Set a specific height */
+  height: 95vh;
+
+  /* Create the parrallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.macbook-coding {
+  /* Image to be used */
+  background-image: url("../img/macbook-coding.jpeg");
+
+  /* Set a specific height */
+  height: 50vh;
+
+  /* Create the parrallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.coding-screen {
+  /* Image to be used */
+  background-image: url("../img/Coding-screen.jpeg");
+
+  /* Set a specific height */
+  height: 50vh;
+
+  /* Create the parrallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carousel-caption {
+  color: black;
+}
+
+.carousel-item {
+  height: 100%;
+  width: 100%;
+}
+.img-fluid {
+  height: 100%;
+  width: 100%;
+}
